@@ -1,0 +1,34 @@
+# Visual Studio solution files
+*.suo
+*.user
+*.userosf
+*.sln.docstates
+
+# Visual Studio temporary/hidden folders
+.vs/
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# .NET related files
+project.assets.json
+*.runtimeconfig.dev.json
+*.json
+*.config
+*.dll
+*.exe
+*.pdb
+*.tmp
+*.log
+*.bak
+*.orig
+*ReSharper/
+
+# Package directories
+packages/
+node_modules/
+
+# Miscellaneous
+.DS_Store # macOS
+Thumbs.db # Windows
