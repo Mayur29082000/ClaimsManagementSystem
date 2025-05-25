@@ -32,3 +32,24 @@ node_modules/
 # Miscellaneous
 .DS_Store # macOS
 Thumbs.db # Windows
+
+# Files mistakenly added to repository root and now untracked
+ClaimHistoryController.cs
+ClaimHistoryRepository.cs
+ClaimsSystems_Console.csproj
+ClaimsSystems_DAL.csproj
+ClaimsSystems_WebServiceLayer.csproj
+ClaimsSystems_WebServiceLayer.csproj.user
+ClaimsSystems_WebServiceLayer.http
+CustomerController.cs
+CustomerRepository.cs
+InsuranceController.cs
+InsuranceRepository.cs
+PaymentsController.cs
+PaymentsRepository.cs
+Program.cs
+ScoreTeamController.cs
+ScoreTeamRepository.cs
+appsettings.Development.json
+appsettings.json
+launchSettings.json
